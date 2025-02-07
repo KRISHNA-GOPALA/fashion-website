@@ -23,5 +23,5 @@ A simple fashion website showcasing various fashion products with an elegant des
   ```
 3.Open index.html in your browser.
 
-##License
+## License
 This project is open-source and available under the MIT License.
